@@ -1,0 +1,54 @@
+body {
+    background-color: #eae6e0;
+    font-family:Verdana;
+}
+
+h1 {
+    color: #000000;
+    font-family: Verdana;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana;
+}
+
+li {
+    font-family: Verdana;
+}
+
+p {
+    font-family: Verdana;
+}
+
+a {
+    color: #ba0000;
+}
+
+section { 
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 242, 204);
+    border: 1px solid #000000;
+    }
+     
+    .about {
+    background-color: rgb(245, 172, 15);
+    }
+
+    .content {
+    background-color: rgb(255, 242, 204);
+    border: 1px solid #000000;
+    }
+    
+    .moods {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(213, 232, 212);
+    border: 1px solid #000000;
+    }
+     
+    .mood-box {
+    background-color: rgb(213, 232, 212);
+    border: 1px solid #000000;
+    }
